@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\models\\linqquaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\models\\linqquaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\seeders\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\seeders\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\migrations\\20261019080630_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\migrations\\20261019080630_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\datuattelosana.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\datuattelosana.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinqQuaries.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\LinqQuaries.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Models\\LinqQuaries.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\LinqQuaries.cs",
+              "RelativeToolTip": "DatuAttelosana\\Models\\LinqQuaries.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwMMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Form1.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Form1.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Form1.cs",
+              "RelativeToolTip": "DatuAttelosana\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Program.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Program.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Program.cs",
+              "RelativeToolTip": "DatuAttelosana\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Seeders\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Seeders\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Seeders\\DataSeeder.cs",
+              "RelativeToolTip": "DatuAttelosana\\Seeders\\DataSeeder.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\Client.cs",
+              "RelativeToolTip": "DatuAttelosana\\Models\\Client.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Form1.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Form1.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Form1.cs [Design]",
+              "RelativeToolTip": "DatuAttelosana\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20261019080630_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Migrations\\20261019080630_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Migrations\\20261019080630_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Migrations\\20261019080630_InitialCreate.cs",
+              "RelativeToolTip": "DatuAttelosana\\Migrations\\20261019080630_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\Payment.cs",
+              "RelativeToolTip": "DatuAttelosana\\Models\\Payment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\Invoice.cs",
+              "RelativeToolTip": "DatuAttelosana\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "DatuAttelosana\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Form1.Designer.cs",
+              "RelativeToolTip": "DatuAttelosana\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "DatuAttelosana\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "DatuAttelosana\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:15:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatuAttelosana.csproj",
+              "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\DatuAttelosana.csproj",
+              "RelativeDocumentMoniker": "DatuAttelosana\\DatuAttelosana.csproj",
+              "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\DatuAttelosana.csproj",
+              "RelativeToolTip": "DatuAttelosana\\DatuAttelosana.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-22T14:15:30.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
