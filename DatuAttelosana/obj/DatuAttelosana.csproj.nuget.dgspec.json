@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Documents\\c#\\DatuAttelosana\\DatuAttelosana\\DatuAttelosana.csproj": {}
+    "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\DatuAttelosana.csproj": {}
   },
   "projects": {
-    "G:\\Documents\\c#\\DatuAttelosana\\DatuAttelosana\\DatuAttelosana.csproj": {
+    "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\DatuAttelosana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Documents\\c#\\DatuAttelosana\\DatuAttelosana\\DatuAttelosana.csproj",
+        "projectUniqueName": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\DatuAttelosana.csproj",
         "projectName": "DatuAttelosana",
-        "projectPath": "G:\\Documents\\c#\\DatuAttelosana\\DatuAttelosana\\DatuAttelosana.csproj",
-        "packagesPath": "C:\\Users\\TEMP.VEA.037\\.nuget\\packages\\",
-        "outputPath": "G:\\Documents\\c#\\DatuAttelosana\\DatuAttelosana\\obj\\",
+        "projectPath": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\DatuAttelosana.csproj",
+        "packagesPath": "C:\\Users\\kysmc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\TEMP.VEA.037\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kysmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,11 +22,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
             "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
@@ -45,10 +41,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
-        "net8.0-windows7.0": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
           "targetAlias": "net8.0-windows",
           "dependencies": {
             "Bogus": {
@@ -85,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

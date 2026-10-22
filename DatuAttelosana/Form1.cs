@@ -5,6 +5,7 @@ namespace DatuAttelosana
     public partial class Form1 : Form
     {
         private AppDbContext db = new AppDbContext();
+
         public Form1()
         {
             InitializeComponent();
@@ -27,8 +28,43 @@ namespace DatuAttelosana
 
         private void butClientInvoice_Click(object sender, EventArgs e)
         {
+            var queries = new LinqQuaries();
+            var result = queries.InvoiceAndClient();
 
+            srcView.DataSource = result;
 
+        }
+
+        private void butUnpaidInvoice_Click(object sender, EventArgs e)
+        {
+            var queries = new LinqQuaries();
+            var result = queries.UnpaidInvoices();
+
+            srcView.DataSource = result;
+        }
+
+        private void butClientFinances_Click(object sender, EventArgs e)
+        {
+            var queries = new LinqQuaries();
+            var result = queries.ClientFinanses();
+
+            srcView.DataSource = result;
+        }
+
+        private void butOverduePay_Click(object sender, EventArgs e)
+        {
+            var queries = new LinqQuaries();
+            var result = queries.OverduePayments();
+
+            srcView.DataSource = result;
+        }
+
+        private void butTopClient_Click(object sender, EventArgs e)
+        {
+            var queries = new LinqQuaries();
+            var result = queries.TopClients();
+
+            srcView.DataSource = result;
         }
     }
 }

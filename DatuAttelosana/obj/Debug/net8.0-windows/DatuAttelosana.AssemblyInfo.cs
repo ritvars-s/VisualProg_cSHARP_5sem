@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatuAttelosana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859f677e1dd7c2d71e97c2507fe7189772abe38e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatuAttelosana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatuAttelosana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

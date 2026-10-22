@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\models\\linqquaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\models\\linqquaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\models\\linqquaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|solutionrelative:datuattelosana\\models\\linqquaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC553B42-E3B4-4230-BFE0-A307FFF3759C}|DatuAttelosana\\DatuAttelosana.csproj|c:\\users\\kysmc\\source\\repos\\visualprog_csharp_5sem\\datuattelosana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -62,24 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LinqQuaries.cs",
               "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\LinqQuaries.cs",
               "RelativeDocumentMoniker": "DatuAttelosana\\Models\\LinqQuaries.cs",
               "ToolTip": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Models\\LinqQuaries.cs",
               "RelativeToolTip": "DatuAttelosana\\Models\\LinqQuaries.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAuwMMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAALMAAAAAAAAAAAAuwL0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-22T14:15:29.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\kysmc\\source\\repos\\VisualProg_cSHARP_5sem\\DatuAttelosana\\Form1.cs",
               "RelativeDocumentMoniker": "DatuAttelosana\\Form1.cs",

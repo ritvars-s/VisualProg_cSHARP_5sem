@@ -37,14 +37,14 @@ namespace DatuAttelosana.Seeders
                 $"VEA_{faker.Random.Number(100, 100000)}_{faker.Random.Number(100, 1000000)}",
                 faker.Random.Word(),
                 faker.Random.Number(1, 1000),
-                faker.Date.Between(new DateTime(2026, 12, 12), new DateTime(2027, 12, 12)),
+                faker.Date.Between(new DateTime(2025, 12, 12), new DateTime(2027, 12, 12)),
                 faker.PickRandom<Client>(clients).Id
                 );
             var invoiceFaker = new Faker<Invoice>().CustomInstantiator(f => new Invoice(
                 $"VEA_{faker.Random.Number(100, 100000)}_{faker.Random.Number(100, 1000000)}",
                 faker.Random.Word(),
                 faker.Random.Number(1, 1000),
-                faker.Date.Between(new DateTime(2026, 11, 11), new DateTime(2027, 11, 12)),
+                faker.Date.Between(new DateTime(2025, 11, 11), new DateTime(2027, 11, 12)),
                 faker.PickRandom<Client>(clients).Id
                 ));
             var invoices = invoiceFaker.Generate(200);
